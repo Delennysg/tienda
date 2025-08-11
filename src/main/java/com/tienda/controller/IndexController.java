@@ -13,8 +13,8 @@ public class IndexController {
         return "index"; //Nombre de la vista en templateas a mostar 
     }
     
-    @RequestMapping("/informacion") //url al que responde
-    public String info() {
-        return "info"; //Nombre de la vista en templateas a mostar 
-    }
+//    @RequestMapping("/informacion") //url al que responde
+//    public String info() {
+//        return "info"; //Nombre de la vista en templateas a mostar 
+//    }
 }
